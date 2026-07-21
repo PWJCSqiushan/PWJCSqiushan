@@ -1,179 +1,139 @@
-# Hi, I'm Qiu Shan 👋
+<div align="right">
+
+🇨🇳 中文 | [🇺🇸 English](README_EN.md)
+
+</div>
 
 <div align="center">
 
-## Software Engineering Student @ Jilin University
+<img src="./assets/banner.svg" width="100%">
+
+# Qiu Shan
+
+### Software Engineering Student @ Jilin University
 
 ### Independent Product Builder · AI & Automation Explorer
 
-**Building useful systems from real-world problems.**
+**Building intelligent products from real-world workflows.**
 
 </div>
 
 ---
 
-## 🧭 Identity
+# 👋 关于我 | Identity
 
-I'm Qiu Shan, a Software Engineering student at **Jilin University**.
+你好，我是 **丘山**。
 
-I enjoy transforming complex real-world workflows into practical software systems.
+目前就读于：
 
-My projects explore the intersection of:
+🎓 **吉林大学 · 软件工程专业**
 
-- 🤖 AI-powered applications
-- ⚙️ Automation & productivity tools
-- 🏗️ Full-stack product engineering
-- 🎨 Creative technology
-- 🔌 Intelligent interaction systems
+我关注：
 
-Rather than building isolated demos, I focus on creating complete systems:
+- 🤖 AI 应用与智能系统
+- ⚙️ 自动化工具与效率提升
+- 🏗️ 软件工程与产品开发
+- 🔌 人机交互与智能设备
 
-Problem Discovery
-        ↓
-Workflow Design
-        ↓
-Software Implementation
-        ↓
-AI / Automation Integration
-        ↓
-Usable Product
+相比只实现一个功能，我更喜欢构建完整系统：
 
-> Build systems. Solve problems. Create things that can actually be used.
+发现问题
+   ↓
+分析工作流
+   ↓
+设计系统
+   ↓
+工程实现
+   ↓
+持续迭代
+
+我的目标：
+
+> 将复杂的问题转化为简单、可靠、真正可用的软件。
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 精选项目 | Signature Projects
 
-## 01 — AI & Creative Intelligence
+## 01 — 🎨 FurColor Studio
 
-### 🎨 FurColor Studio
+### AI Creative Workflow Platform
 
-**AI-assisted local photo post-processing workstation**
+一个面向创作者的 **AI 辅助本地后期工作站**。
 
-A privacy-friendly desktop workflow system designed for creative professionals.
+探索：
 
-Features:
+- AI 图像处理
+- 自动化后期流程
+- 批量内容生产
+- 本地隐私优先架构
 
-- AI-assisted image selection
-- Batch processing workflow
-- Reference-based color adjustment
-- Intelligent masking
-- Quality inspection
-- Local-first architecture
+核心方向：
 
-Tech:
+Creative Workflow
+        +
+AI Assistance
+        +
+Desktop Product
+
+技术：
 
 Python
-AI
 Computer Vision
+AI Workflow
 Desktop Application
 
 ---
 
-## 02 — Intelligent Interaction
+## 02 — 🤖 JKS
 
-### 🤖 JKS
+### Embodied AI Companion
 
-**AI interactive companion combining voice, agents and embedded hardware**
+一个连接：
 
-A complete intelligent interaction pipeline:
-
-Voice Input
-      ↓
-Speech Recognition
-      ↓
+语音输入
+    ↓
 AI Agent
-      ↓
-Text To Speech
-      ↓
-Embedded Device Feedback
+    ↓
+语音输出
+    ↓
+嵌入式设备反馈
 
-Exploring:
+的智能交互系统。
 
-- Speech interaction
-- AI Agent systems
-- Desktop applications
-- ESP32 hardware integration
-- Human-computer interaction
+探索：
 
-Tech:
+- Speech Interaction
+- AI Agent
+- Embedded System
+- Human Computer Interaction
+
+技术：
 
 Python
 C++
 ESP32
 AI
-Embedded Systems
+Embedded Development
 
 ---
 
-# ⚙️ Automation & Productivity
+## 03 — 🛒 StockHub
 
-## 03 — chaoxing-fanya
+### Full-stack Digital Asset Marketplace
 
-**Automation platform for learning workflows**
+一个从产品设计到完整实现的数字资产交易平台。
 
-A productivity enhancement system that improves complex online learning workflows.
+包含：
 
-Features:
+- 用户系统
+- 素材管理
+- 创作者主页
+- 商品流程
+- 订单系统
+- 权限管理
 
-- Browser automation
-- OCR assistance
-- AI recognition
-- Task management
-- Web interface
-- Docker deployment
-
-Tech:
-
-Python
-React
-Automation
-OCR
-
----
-
-## 04 — chaoxing-quiz-pdf
-
-**Learning content extraction and document generation toolkit**
-
-A tool that converts online learning materials into structured documents.
-
-Features:
-
-- Content extraction
-- Question organization
-- Duplicate removal
-- PDF generation
-- AI-assisted explanation
-
-Tech:
-
-Python
-Web Automation
-Document Processing
-AI
-
----
-
-# 🏗️ Product Engineering
-
-## 05 — StockHub
-
-**Full-stack digital asset marketplace**
-
-A complete product system exploring creator economy and digital asset trading.
-
-Features:
-
-- User authentication
-- Asset management
-- Creator profiles
-- Shopping workflow
-- Order system
-- Download permissions
-- Administration
-
-Tech:
+技术：
 
 Next.js
 TypeScript
@@ -182,91 +142,9 @@ SQLite
 
 ---
 
-## 06 — Media Marketplace
+# 🧪 当前探索 | Now Building
 
-**Digital content trading platform prototype**
-
-An early product exploration focused on:
-
-- Digital asset licensing
-- Marketplace workflow
-- Creator economy
-- Product validation
-
-This project represents the evolution from prototype to full-stack implementation.
-
----
-
-## 07 — Hospital Management System
-
-**Business workflow simulation system**
-
-A complete management system covering:
-
-- Patient registration
-- Appointment scheduling
-- Medical workflow
-- Pharmacy management
-- Billing system
-- Hospital operations
-
-Tech:
-
-C++
-Data Structures
-System Design
-
----
-
-# 🌐 Infrastructure & Knowledge Sharing
-
-## 08 — Cloudflare EdgeTunnel Guide
-
-**Practical infrastructure deployment documentation**
-
-A guide focused on simplifying complex deployment processes.
-
-Exploring:
-
-- Infrastructure setup
-- Network configuration
-- Deployment practice
-- Technical documentation
-
----
-
-# 🛠️ Technical Arsenal
-
-## Languages
-
-Python
-C++
-TypeScript
-JavaScript
-
-## AI & Intelligent Systems
-
-Machine Learning
-Computer Vision
-Speech Processing
-LLM Applications
-AI Agents
-Automation Systems
-
-## Software Engineering
-
-React / Next.js
-Docker
-Linux
-Database Design
-API Development
-System Architecture
-
----
-
-# 🧪 Current Exploration
-
-Currently exploring:
+2026 Focus:
 
 AI Applications
         +
@@ -276,55 +154,212 @@ Product Engineering
         +
 Human Interaction
 
-Areas of interest:
+正在探索：
 
-- AI Agent applications
-- Local AI systems
-- Intelligent assistants
-- Software automation
-- Human-machine interaction
-
----
-
-# 📈 Development Philosophy
-
-I believe good software is not only about technology.
-
-A valuable system should:
-
-Understand the problem
-        ↓
-Respect user needs
-        ↓
-Reduce complexity
-        ↓
-Create real value
+- AI Agent 应用
+- 本地智能系统
+- 自动化工作流
+- 更自然的人机交互方式
 
 ---
 
-# 📚 Background
+# 🧩 能力地图 | Capability Map
+
+
+                 AI
+
+      Agent          Vision
+Automation                         Hardware
+          Product Engineering
+
+
+ Frontend                    Backend
+
+
+          Software System
+
+
+我的技术兴趣：
+
+|方向|内容|
+|-|-|
+|AI|LLM Applications · Agents · Computer Vision|
+|Automation|Workflow Automation · Data Processing|
+|Frontend|React · Next.js · TypeScript|
+|Backend|API Design · Database · System Architecture|
+|Hardware|ESP32 · Embedded Interaction|
+
+---
+
+# 📚 项目档案 | Project Archive
+
+
+<details>
+
+<summary>⚙️ Automation & Productivity</summary>
+
+
+## chaoxing-fanya
+
+学习流程自动化工具。
+
+方向：
+
+- 浏览器自动化
+- OCR
+- AI 辅助识别
+- Web 工具开发
+
+
+---
+
+## chaoxing-quiz-pdf
+
+在线学习内容整理与 PDF 生成工具。
+
+方向：
+
+- 数据提取
+- 文档生成
+- 自动化处理
+
+
+</details>
+
+
+<details>
+
+<summary>🏗️ Software Systems</summary>
+
+
+## Hospital Management System
+
+医疗业务流程管理系统。
+
+涉及：
+
+- 用户角色
+- 业务流程
+- 数据结构
+- 系统设计
+
+
+---
+
+## Media Marketplace
+
+数字内容交易平台原型。
+
+探索：
+
+- 内容授权
+- 创作者经济
+- 产品验证
+
+
+</details>
+
+
+<details>
+
+<summary>🌐 Infrastructure & Knowledge Sharing</summary>
+
+
+## Cloudflare EdgeTunnel Guide
+
+面向实际部署场景的技术文档。
+
+关注：
+
+- 网络配置
+- 服务部署
+- 工程实践
+
+
+</details>
+
+
+---
+
+# 🛠️ 技术栈 | Tech Stack
+
+
+### Languages
+
+Python
+C++
+TypeScript
+JavaScript
+
+
+### AI & Intelligent Systems
+
+Machine Learning
+Computer Vision
+Speech Processing
+LLM Applications
+AI Agents
+
+
+### Engineering
+
+React
+Next.js
+Docker
+Linux
+Database Design
+API Development
+
+
+---
+
+# 💡 开发理念 | Philosophy
+
+
+我相信：
+
+好的软件不仅需要技术实现，
+
+更需要理解真实需求。
+
+
+Technology
+     ↓
+Engineering
+     ↓
+Experience
+     ↓
+Value
+
+
+---
+
+# 🎓 Background
+
 
 🎓 **Jilin University**
 
 Software Engineering
 
+
 ---
 
-# 📫 Connect
+# 📫 联系我 | Connect
 
-Feel free to explore my repositories or contact me.
 
 📧 Email:
 
 dongzongyue@gmail.com
 
-Interested in:
 
-- Open Source collaboration
-- AI applications
-- Automation tools
-- Product engineering
-- Intelligent interaction systems
+欢迎交流：
+
+- Open Source
+- AI Applications
+- Automation Tools
+- Product Engineering
+- Intelligent Interaction
+
 
 ---
 
@@ -333,17 +368,3 @@ Interested in:
 ⭐ Thanks for visiting my profile.
 
 </div>
-<!--
-**PWJCSqiushan/PWJCSqiushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
