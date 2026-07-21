@@ -163,22 +163,32 @@ Human Interaction
 
 ---
 
-# 🧩 能力地图 | Capability Map
+# 🧩 系统构建能力 | System Building Map
 
 
-                 AI
+<div align="center">
 
-      Agent          Vision
-Automation                         Hardware
-          Product Engineering
+### Building Intelligent Systems
 
 
- Frontend                    Backend
+| 🤖 AI Systems | ⚙️ Automation |
+|:---:|:---:|
+| AI Agents | Workflow |
+| Computer Vision | Data Processing |
+| LLM Applications | Productivity Tools |
 
 
-          Software System
+| 🔌 Interaction | 🏗 Product Engineering |
+|:---:|:---:|
+| Speech | Frontend |
+| Hardware | Backend |
+| Embedded Systems | Database |
+| Human Interaction | Deployment |
 
 
+</div>
+
+---
 我的技术兴趣：
 
 |方向|内容|
