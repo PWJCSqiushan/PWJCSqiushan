@@ -1,363 +1,112 @@
 <div align="right">
 
-[🇨🇳 中文](README.md) | 🇺🇸 English
+[中文](README.md) · **English**
 
 </div>
 
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Qiu Shan — Code, Camera, Kilometers">
+</p>
 
-<img src="./assets/banner.svg" width="100%">
+<p align="center">
+  <a href="#featured-work"><img alt="Featured work" src="https://img.shields.io/badge/Featured_Work-See_what_I_build-AF85B9?style=for-the-badge"></a>
+  <a href="#current-route"><img alt="Current route" src="https://img.shields.io/badge/Current_Route-Always_iterating-668099?style=for-the-badge"></a>
+  <a href="https://github.com/PWJCSqiushan/PWJCSqiushan/issues/new?template=say-hello.yml"><img alt="Say hello" src="https://img.shields.io/badge/Say_Hello-Start_a_conversation-CFA2B0?style=for-the-badge"></a>
+</p>
 
-# Qiu Shan
+<p align="center">
+  <a href="https://github.com/PWJCSqiushan"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-PWJCSqiushan-181717?style=flat-square&logo=github"></a>
+  <a href="mailto:dongzongyue@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dongzongyue%40gmail.com-8D6A9F?style=flat-square&logo=gmail&logoColor=white"></a>
+  <img alt="Location" src="https://img.shields.io/badge/Location-Jilin%2C_China-5B7088?style=flat-square&logo=googlemaps&logoColor=white">
+</p>
 
-### Software Engineering Student @ Jilin University
+## Hi, I'm Qiu Shan
 
-### Independent Product Builder · AI & Automation Explorer
+A Software Engineering student at Jilin University, a photographer, and a long-distance runner.
 
-**Building intelligent products from real-world workflows.**
+I enjoy finding problems in real workflows and turning them into products people can actually use and keep improving. To me, coding, photography, and distance running share the same fundamentals: observation, judgment, patience, and the discipline to reach the finish line.
 
-</div>
+> **Turn real needs into reliable software. Run every iteration to the finish.**
 
----
+| <code>CODE</code> | <code>CAMERA</code> | <code>KILOMETERS</code> |
+|:---|:---|:---|
+| AI applications, computer vision, full-stack products, embedded interaction | Event and portrait photography, post-production workflows, creator tools | Road running, trail running, deliberate training and review |
 
-# 👋 About Me
+<a name="featured-work"></a>
 
-Hi, I'm **Qiu Shan**.
+## Featured Work
 
-I am currently studying:
+### 01 / [FurColor Studio](https://github.com/PWJCSqiushan/FurColor-Studio) <code>ACTIVE</code>
 
-🎓 **Software Engineering at Jilin University**
+**A local-first AI post-production workstation for fursuit event photography.** It grew directly from my commercial photography workflow, connecting culling, human-face privacy review, reference-guided base grading, per-image eye enhancement, watermarking, quality control, and delivery.
 
-I enjoy transforming complex real-world workflows into practical software systems.
+- <code>Python</code> <code>FastAPI</code> <code>OpenCV</code> <code>YuNet</code> <code>Computer Vision</code>
+- Processes real photographs locally, with privacy and photographer review kept in the loop
+- Uses an analyse → review → train → re-analyse loop to calibrate recurring false detections
 
-My interests include:
-
-- 🤖 AI-powered applications
-- ⚙️ Automation systems
-- 🏗️ Product-oriented software engineering
-- 🔌 Human-computer interaction
-- 🧩 Intelligent systems
-
-I believe great software is not only about writing code.
-
-It is about understanding problems and building systems that create real value.
-
-Problem
-   ↓
-Workflow
-   ↓
-System Design
-   ↓
-Engineering
-   ↓
-Product
+[Explore the workflow and quick start →](https://github.com/PWJCSqiushan/FurColor-Studio#readme)
 
 ---
 
-# 🚀 Signature Projects
+| Project | Problem it explores | Stack & stage |
+|---|---|---|
+| **[JKS](https://github.com/PWJCSqiushan/JKS)**<br>Voice interaction assistant | Connects recording, STT, an AI agent, TTS, and expressive feedback on an ESP32-S3 circular AMOLED display | <code>Python</code> <code>C++</code> <code>ESP32-S3</code><br>In development |
+| **[StockHub](https://github.com/PWJCSqiushan/stockhub)**<br>Digital media platform | Tests an end-to-end creator marketplace: uploads, EXIF, accounts, orders, downloads, and administration | <code>Next.js</code> <code>TypeScript</code> <code>Prisma</code><br>Full-stack prototype |
 
-## 01 — 🎨 FurColor Studio
+<a name="current-route"></a>
 
-### AI Creative Workflow Platform
+## Current Route
 
-An AI-assisted local post-processing workstation designed for creative workflows.
+<pre>
+Real workflow ──→ Product prototype ──→ Engineering ──→ Feedback ──→ Next iteration
+      ↑                                                                    │
+      └──────────────────────── Long-term thinking ────────────────────────┘
+</pre>
 
-Exploring:
+- **Product:** improving FurColor Studio's reliability, privacy boundaries, UX, and deployment story
+- **AI / research:** contributing to a sound-recognition project and building practical speech-system experience
+- **Foundations:** studying C++ competitive programming, algorithms, and computer systems
+- **Creative work:** shooting events, portraits, and video while exploring AI that genuinely helps creators
+- **Training:** preparing for half-marathon, trail, and collegiate relay events—code and kilometres both compound
 
-- AI-assisted image processing
-- Automated creative workflows
-- Batch production pipelines
-- Privacy-first local applications
+## Toolbox
 
-Core idea:
+These are tools I currently use in projects or study systematically, not a claim to have mastered everything.
 
-Creative Workflow
-        +
-AI Assistance
-        +
-Desktop Product
-
-Technology:
-
-Python
-Computer Vision
-AI Workflow
-Desktop Application
-
----
-
-# 02 — 🤖 JKS
-
-### Embodied AI Companion
-
-An intelligent interaction system connecting:
-
-Voice Input
-      ↓
-AI Agent
-      ↓
-Speech Output
-      ↓
-Embedded Device Feedback
-
-Exploring:
-
-- Speech interaction
-- AI agents
-- Embedded systems
-- Human-machine interaction
-
-Technology:
-
-Python
-C++
-ESP32
-AI
-Embedded Development
-
----
-
-# 03 — 🛒 StockHub
-
-### Full-stack Digital Asset Marketplace
-
-A complete product system built from idea to implementation.
-
-Features:
-
-- User system
-- Digital asset management
-- Creator profiles
-- Shopping workflow
-- Order management
-- Permission control
-
-Technology:
-
-Next.js
-TypeScript
-Prisma
-SQLite
-
----
-
-# 🧪 Now Building
-
-Current focus:
-
-AI Applications
-        +
-Automation
-        +
-Product Engineering
-        +
-Human Interaction
-
-Currently exploring:
-
-- AI Agent applications
-- Local intelligent systems
-- Workflow automation
-- More natural human-computer interaction
-
----
-
-# 🧩 Capability Map
-
-
-                 AI
-
-      Agents          Vision
-Automation                         Hardware
-          Product Engineering
-
-
- Frontend                    Backend
-
-
-          Software Systems
-
-
-Areas I work with:
-
-| Area | Topics |
+| Area | Tools & topics |
 |---|---|
-| AI | LLM Applications · Agents · Computer Vision |
-| Automation | Workflow Automation · Data Processing |
-| Frontend | React · Next.js · TypeScript |
-| Backend | APIs · Databases · System Architecture |
-| Hardware | ESP32 · Embedded Interaction |
-
----
-
-# 📚 Project Archive
-
+| **Languages** | Python · C++ · TypeScript · JavaScript · MATLAB |
+| **AI & Vision** | OpenCV · YOLO · YuNet · image processing · speech interaction · AI agents |
+| **Product Engineering** | FastAPI · Flask · Next.js · React · REST APIs · SQLite · Prisma |
+| **Systems** | Git · Linux · Docker · PowerShell · ESP32 |
+| **Creative** | Lightroom Classic · Photoshop · DaVinci Resolve · photography workflows |
 
 <details>
+<summary><strong>More projects</strong></summary>
 
-<summary>⚙️ Automation & Productivity</summary>
-
-
-## chaoxing-fanya
-
-A productivity automation tool exploring:
-
-- Browser automation
-- OCR assistance
-- AI recognition
-- Web-based workflows
-
-
----
-
-## chaoxing-quiz-pdf
-
-A document generation toolkit for learning materials.
-
-Exploring:
-
-- Data extraction
-- Document processing
-- Automated generation
-
+| Project | In one line |
+|---|---|
+| [chaoxing-quiz-pdf](https://github.com/PWJCSqiushan/chaoxing-quiz-pdf) | Collects and organises questions into printable PDF study material |
+| [hospital-management-system](https://github.com/PWJCSqiushan/hospital-management-system) | A C/C++ course project modelling a complete outpatient workflow |
+| [media-marketplace](https://github.com/PWJCSqiushan/media-marketplace) | The frontend product-validation prototype that preceded StockHub |
+| [cloudflare-edgetunnel-v2rayn-guide](https://github.com/PWJCSqiushan/cloudflare-edgetunnel-v2rayn-guide) | A deployment guide distilled from real troubleshooting work |
 
 </details>
 
+## Beyond Code
 
-<details>
+- 📷 Repetitive, time-consuming mistakes in a photo workflow often become my next product requirement
+- 🏃 I review training logs the same way I review learning and software iterations
+- 🧭 I believe useful work says more about a developer than a wall of labels
 
-<summary>🏗️ Software Systems</summary>
+## Let's build something interesting
 
+If you care about **AI × imaging, creator tools, voice interaction, or open-source collaboration**, you can:
 
-## Hospital Management System
+- [Leave a public note or collaboration idea](https://github.com/PWJCSqiushan/PWJCSqiushan/issues/new?template=say-hello.yml)
+- [Browse all my repositories](https://github.com/PWJCSqiushan?tab=repositories)
+- [Send me an email](mailto:dongzongyue@gmail.com)
 
-A business workflow simulation system.
-
-Exploring:
-
-- Role-based workflows
-- Data structures
-- System design
-
-
----
-
-## Media Marketplace
-
-A digital content marketplace prototype.
-
-Exploring:
-
-- Digital licensing
-- Creator economy
-- Product validation
-
-
-</details>
-
-
-<details>
-
-<summary>🌐 Infrastructure & Knowledge Sharing</summary>
-
-
-## Cloudflare EdgeTunnel Guide
-
-Practical infrastructure documentation.
-
-Topics:
-
-- Deployment
-- Network configuration
-- Engineering practices
-
-
-</details>
-
-
----
-
-# 🛠️ Tech Stack
-
-
-## Languages
-
-Python
-C++
-TypeScript
-JavaScript
-
-
-## AI & Intelligent Systems
-
-Machine Learning
-Computer Vision
-Speech Processing
-LLM Applications
-AI Agents
-
-
-## Engineering
-
-React
-Next.js
-Docker
-Linux
-Database Design
-API Development
-
----
-
-# 💡 Philosophy
-
-
-I believe software should connect:
-
-Technology
-      ↓
-Engineering
-      ↓
-Experience
-      ↓
-Value
-
-The goal is not only to build software,
-
-but to build systems that people can actually use.
-
----
-
-# 🎓 Background
-
-
-🎓 **Jilin University**
-
-Software Engineering
-
-
----
-
-# 📫 Connect
-
-
-📧 Email:
-
-dongzongyue@gmail.com
-
-
-Open to discussions about:
-
-- Open Source
-- AI Applications
-- Automation Tools
-- Product Engineering
-- Intelligent Interaction
-
-
----
-
-<div align="center">
-
-⭐ Thanks for visiting my profile.
-
-</div>
+<p align="center">
+  <sub>Build useful things · Frame honest stories · Go the distance</sub>
+</p>
