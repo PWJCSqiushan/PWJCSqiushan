@@ -124,11 +124,15 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PWJCSqiushan&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&title_color=AF85B9&text_color=6F7889&icon_color=A2E0F2&bg_color=00000000" alt="PWJCSqiushan GitHub statistics">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PWJCSqiushan&layout=compact&langs_count=8&hide_border=true&title_color=AF85B9&text_color=6F7889&bg_color=00000000" alt="PWJCSqiushan most used languages">
+  <a href="https://github.com/PWJCSqiushan?tab=repositories">
+    <img height="170" src="./assets/github-overview.svg" alt="PWJCSqiushan GitHub 公开项目与贡献统计">
+  </a>
+  <a href="https://github.com/PWJCSqiushan?tab=repositories&type=source">
+    <img height="170" src="./assets/top-languages.svg" alt="PWJCSqiushan 公开仓库常用语言占比">
+  </a>
 </p>
 
-<sub>贡献热力图展示过去一年的 GitHub 公开活动；统计卡片会随公开仓库和提交记录自动更新。</sub>
+<sub>贡献热力图展示过去一年的 GitHub 公开活动；统计卡片由仓库内脚本生成，语言占比按非 Fork 公开仓库的代码体积统计，不再依赖第三方统计卡片服务。</sub>
 
 ## 个人方向 · Beyond Development
 

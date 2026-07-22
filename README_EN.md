@@ -124,11 +124,15 @@ This section combines technologies already used in projects with areas I am curr
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PWJCSqiushan&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&title_color=AF85B9&text_color=6F7889&icon_color=A2E0F2&bg_color=00000000" alt="PWJCSqiushan GitHub statistics">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PWJCSqiushan&layout=compact&langs_count=8&hide_border=true&title_color=AF85B9&text_color=6F7889&bg_color=00000000" alt="PWJCSqiushan most used languages">
+  <a href="https://github.com/PWJCSqiushan?tab=repositories">
+    <img height="170" src="./assets/github-overview.svg" alt="PWJCSqiushan public repository and contribution statistics">
+  </a>
+  <a href="https://github.com/PWJCSqiushan?tab=repositories&type=source">
+    <img height="170" src="./assets/top-languages.svg" alt="PWJCSqiushan public repository language distribution">
+  </a>
 </p>
 
-<sub>The contribution heatmap covers the past year of public GitHub activity. The statistics cards update automatically with public repositories and contributions.</sub>
+<sub>The heatmap covers the past year of public GitHub activity. Repository-hosted cards are generated locally; language percentages use code size across non-fork public repositories, without a third-party stats-card service.</sub>
 
 ## Beyond Development
 
