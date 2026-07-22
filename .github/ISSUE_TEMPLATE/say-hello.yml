@@ -1,0 +1,33 @@
+name: Say hello / 交流与合作
+description: 分享想法、交流项目，或提出一项公开的合作建议
+title: "[Hello] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        谢谢你来到这里。这个表单会创建一条**公开 Issue**；请不要填写手机号、住址、密钥或其他敏感信息。
+  - type: dropdown
+    id: topic
+    attributes:
+      label: 想聊什么？ / Topic
+      options:
+        - FurColor Studio / AI × 影像
+        - 语音交互与智能硬件
+        - 摄影与创作者工具
+        - 开源协作
+        - 其他
+    validations:
+      required: true
+  - type: textarea
+    id: message
+    attributes:
+      label: 留言 / Message
+      description: 请简要介绍你的想法、背景或希望一起解决的问题。
+      placeholder: 你好，我在……方面做过一些尝试，想和你交流……
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: 公开联系方式（可选） / Public contact (optional)
+      description: 只填写你愿意公开展示的邮箱、主页或社交账号；也可以留空。
