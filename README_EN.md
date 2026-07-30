@@ -1,11 +1,11 @@
 <div align="right">
 
-[??](README.md) ? **English**
+[中文](README.md) · **English**
 
 </div>
 
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Qiu Shan ? Code, Camera, Kilometers">
+  <img src="./assets/banner.svg" width="100%" alt="Qiu Shan — Code, Camera, Kilometers">
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ A local-first AI batch post-production workstation for fursuit event photography
 - Adds optional accounts, session security, and server isolation boundaries without claiming cloud photo processing
 - Requires privacy, mask, exposure/colour, watermark, and crop checks before producing a SHA-256 manifest
 
-[View the project guide and complete workflow ?](https://github.com/PWJCSqiushan/FurColor-Studio#readme)
+[View the project guide and complete workflow →](https://github.com/PWJCSqiushan/FurColor-Studio#readme)
 
 ---
 
@@ -58,15 +58,15 @@ A local-first 3D hair-manipulation web application for haircut education. Within
 - Supports spatial scissors, clippers, combing, blow-drying, and several styling tools
 - Stores teaching projects locally in the browser and covers key behaviour with model and interaction smoke tests
 
-[View the feature set, controls, and modelling boundaries ?](https://github.com/PWJCSqiushan/Mirage-Mane#readme)
+[View the feature set, controls, and modelling boundaries →](https://github.com/PWJCSqiushan/Mirage-Mane#readme)
 
 ## More Projects
 
 | Project | What it covers | Stack & stage |
 |---|---|---|
 | **[Higgs](https://github.com/PWJCSqiushan/Higgs)**<br>Self-hosted QQ agent | Provides auditable long-term memory, stable persona, owner authority, operational governance, and controlled tool use | <code>Python</code> <code>SQLite</code> <code>OneBot</code><br>Long-running agent system |
-| **[JKS](https://github.com/PWJCSqiushan/JKS)**<br>Intelligent voice assistant | Connects desktop recording, STT, an AI agent, TTS, and expressive feedback on a circular ESP32-S3 AMOLED display | <code>Python</code> <code>C++</code> <code>ESP32-S3</code><br>Hardware?software prototype |
-| **[Starflare Codex Pet](https://github.com/PWJCSqiushan/starflare-codex-pet)**<br>Custom Codex pet | Builds and repairs a Codex v2-compatible 8?11 animation atlas with validation and transparent-edge cleanup | <code>Sprite Animation</code> <code>Codex Pet v2</code><br>Character asset |
+| **[JKS](https://github.com/PWJCSqiushan/JKS)**<br>Intelligent voice assistant | Connects desktop recording, STT, an AI agent, TTS, and expressive feedback on a circular ESP32-S3 AMOLED display | <code>Python</code> <code>C++</code> <code>ESP32-S3</code><br>Hardware–software prototype |
+| **[Starflare Codex Pet](https://github.com/PWJCSqiushan/starflare-codex-pet)**<br>Custom Codex pet | Builds and repairs a Codex v2-compatible 8×11 animation atlas with validation and transparent-edge cleanup | <code>Sprite Animation</code> <code>Codex Pet v2</code><br>Character asset |
 | **[StockHub](https://github.com/PWJCSqiushan/stockhub)**<br>Digital media platform | Covers creator uploads, EXIF presentation, users, orders, downloads, and administration while exploring ways to present and distribute original visual work | <code>Next.js</code> <code>TypeScript</code> <code>Prisma</code><br>Full-stack prototype |
 | **[chaoxing-fanya](https://github.com/PWJCSqiushan/chaoxing-fanya)**<br>Chaoxing learning automation | Extends an open-source project with a visual web interface, OCR, question-bank integrations, notifications, and portable packaging | <code>Python</code> <code>Flask</code> <code>React</code><br>Open-source extension |
 
@@ -106,14 +106,14 @@ This section combines technologies already used in projects with areas I am curr
 </p>
 
 <p align="center">
-  <strong>AI ? Web ? Data</strong><br><br>
+  <strong>AI · Web · Data</strong><br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=opencv,fastapi,flask,react,nextjs,threejs,vite,tailwind,sqlite,prisma&theme=dark&perline=10" alt="OpenCV, FastAPI, Flask, React, Next.js, Three.js, Vite, Tailwind CSS, SQLite and Prisma">
   </a>
 </p>
 
 <p align="center">
-  <strong>Engineering ? Creative</strong><br><br>
+  <strong>Engineering · Creative</strong><br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,linux,powershell,vscode,ps,pr&theme=dark&perline=8" alt="Git, GitHub, Docker, Linux, PowerShell, VS Code, Photoshop and Premiere">
   </a>
@@ -121,7 +121,7 @@ This section combines technologies already used in projects with areas I am curr
 
 <a name="github-data"></a>
 
-## GitHub Data ? Development Activity
+## GitHub Data · Development Activity
 
 > Repository snapshot updated **2026-07-30**: **12 public repositories** (11 project repositories plus the profile repository). The main changes over the past week are Higgs, FurColor Studio v4.1, the Mirage Mane teaching prototype, and Starflare Codex Pet.
 
@@ -140,9 +140,9 @@ This section combines technologies already used in projects with areas I am curr
 
 ## Beyond Development
 
-- ?? Continuing event, portrait, and video photography, and converting real post-production needs into software features
-- ?? Competing in road, trail, and collegiate running events with structured training and post-race review
-- ?? Maintaining long-term study in competitive programming, mathematics competitions, mathematical modelling, and English
+- 📷 Continuing event, portrait, and video photography, and converting real post-production needs into software features
+- 🏃 Competing in road, trail, and collegiate running events with structured training and post-race review
+- 📚 Maintaining long-term study in competitive programming, mathematics competitions, mathematical modelling, and English
 
 ## Connect
 
