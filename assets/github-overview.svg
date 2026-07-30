@@ -22,16 +22,16 @@
 <text class="title" x="36" y="38">GitHub Overview</text>
 <text class="subtitle" x="36" y="55">Public activity · rolling 12 months</text>
 <path d="M20 70H475" stroke="#30363d" stroke-opacity="0.75"/>
-<text class="value" x="49.5" y="116" text-anchor="middle">9</text>
+<text class="value" x="49.5" y="116" text-anchor="middle">12</text>
 <text class="label" x="49.5" y="139" text-anchor="middle">PUBLIC REPOS</text>
 <path d="M99 88V146" stroke="#30363d" stroke-opacity="0.7"/>
-<text class="value" x="148.5" y="116" text-anchor="middle">67</text>
+<text class="value" x="148.5" y="116" text-anchor="middle">114</text>
 <text class="label" x="148.5" y="139" text-anchor="middle">CONTRIBUTIONS</text>
 <path d="M198 88V146" stroke="#30363d" stroke-opacity="0.7"/>
-<text class="value" x="247.5" y="116" text-anchor="middle">55</text>
+<text class="value" x="247.5" y="116" text-anchor="middle">85</text>
 <text class="label" x="247.5" y="139" text-anchor="middle">COMMITS</text>
 <path d="M297 88V146" stroke="#30363d" stroke-opacity="0.7"/>
-<text class="value" x="346.5" y="116" text-anchor="middle">2</text>
+<text class="value" x="346.5" y="116" text-anchor="middle">5</text>
 <text class="label" x="346.5" y="139" text-anchor="middle">PULL REQUESTS</text>
 <path d="M396 88V146" stroke="#30363d" stroke-opacity="0.7"/>
 <text class="value" x="445.5" y="116" text-anchor="middle">2</text>

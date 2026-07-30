@@ -123,20 +123,20 @@
 
 ## GitHub 数据 · Development Activity
 
-> 仓库快照更新于 **2026-07-30**：当前共有 **12 个公开仓库**（11 个项目仓库 + 1 个主页仓库）。过去一周的主要变化集中在 Higgs、FurColor Studio v4.1、Mirage Mane 教学原型和 Starflare Codex Pet。
-
-| 最近更新 | 当前进展 |
-|---|---|
-| [Higgs](https://github.com/PWJCSqiushan/Higgs) | 发布自托管 QQ 智能体，完成可审计长期记忆、主人治理、备份与 107 项测试质量门 |
-| [FurColor Studio](https://github.com/PWJCSqiushan/FurColor-Studio) | 合并 v4.0 主体智能层，并完成 v4.1 账户与服务器安全边界 |
-| [Mirage Mane](https://github.com/PWJCSqiushan/Mirage-Mane) | 发布本地优先的 3D 理发教学原型，补齐发束、工具与回归测试说明 |
-| [Starflare Codex Pet](https://github.com/PWJCSqiushan/starflare-codex-pet) | 发布 Codex v2 动画宠物，并修复向左奔跑序列与预览帧 |
-
 <p align="center">
   <img width="96%" src="https://ghchart.rshah.org/AF85B9/PWJCSqiushan" alt="PWJCSqiushan 过去一年的 GitHub 贡献记录">
 </p>
 
-<sub>贡献热力图展示过去一年的 GitHub 公开活动。原先容易滞后的仓库数、提交数和语言占比静态卡片已从主页移除；项目快照改为标注核对日期，并直接链接到对应仓库。</sub>
+<p align="center">
+  <a href="https://github.com/PWJCSqiushan?tab=repositories">
+    <img height="170" src="./assets/github-overview.svg" alt="PWJCSqiushan GitHub 公开项目与贡献统计">
+  </a>
+  <a href="https://github.com/PWJCSqiushan?tab=repositories&type=source">
+    <img height="170" src="./assets/top-languages.svg" alt="PWJCSqiushan 公开仓库常用语言占比">
+  </a>
+</p>
+
+<sub>贡献热力图展示过去一年的 GitHub 公开活动；统计卡片更新于 2026-07-30，语言占比按非 Fork 公开仓库的代码体积统计。</sub>
 
 ## 个人方向 · Beyond Development
 

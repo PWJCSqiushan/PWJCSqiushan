@@ -123,20 +123,20 @@ This section combines technologies already used in projects with areas I am curr
 
 ## GitHub Data · Development Activity
 
-> Repository snapshot updated **2026-07-30**: **12 public repositories** (11 project repositories plus the profile repository). The main changes over the past week are Higgs, FurColor Studio v4.1, the Mirage Mane teaching prototype, and Starflare Codex Pet.
-
-| Recent update | Current progress |
-|---|---|
-| [Higgs](https://github.com/PWJCSqiushan/Higgs) | Released a self-hosted QQ agent with auditable long-term memory, owner governance, consistent backups, and a 107-test quality gate |
-| [FurColor Studio](https://github.com/PWJCSqiushan/FurColor-Studio) | Merged the v4.0 subject-intelligence layer and completed the v4.1 account and server security boundaries |
-| [Mirage Mane](https://github.com/PWJCSqiushan/Mirage-Mane) | Released a local-first 3D haircut-teaching prototype with strand, tool, and regression-test documentation |
-| [Starflare Codex Pet](https://github.com/PWJCSqiushan/starflare-codex-pet) | Released a Codex v2 animated pet and repaired the left-running sequence and preview frames |
-
 <p align="center">
   <img width="96%" src="https://ghchart.rshah.org/AF85B9/PWJCSqiushan" alt="PWJCSqiushan GitHub contributions over the past year">
 </p>
 
-<sub>The heatmap covers the past year of public GitHub activity. Static repository, commit, and language cards that could lag behind have been removed from the profile; the project snapshot now states its verification date and links directly to each repository.</sub>
+<p align="center">
+  <a href="https://github.com/PWJCSqiushan?tab=repositories">
+    <img height="170" src="./assets/github-overview.svg" alt="PWJCSqiushan public repository and contribution statistics">
+  </a>
+  <a href="https://github.com/PWJCSqiushan?tab=repositories&type=source">
+    <img height="170" src="./assets/top-languages.svg" alt="PWJCSqiushan public repository language distribution">
+  </a>
+</p>
+
+<sub>The heatmap covers the past year of public GitHub activity. The statistics cards were refreshed on 2026-07-30; language percentages use code size across non-fork public repositories.</sub>
 
 ## Beyond Development
 
