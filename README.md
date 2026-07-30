@@ -37,19 +37,18 @@
 
 ### 01 / [FurColor Studio](https://github.com/PWJCSqiushan/FurColor-Studio) <code>ACTIVE</code>
 
-面向兽装活动摄影的本地优先 AI 批量后期工作站。当前 v4.1 已将选片、兽装主体检测与匿名分组、真人脸隐私复核、参考样片驱动调色、主体分层曝光、逐图眼睛蒙版、人工质检和可校验交付串成完整流程。
+面向兽聚摄影的本地优先 AI 批量后期工作站。当前 v4.1 已将选片、主体检测与匿名分组、人脸隐私复核、参考样片驱动调色、主体分层曝光、眼睛蒙版、人工质检和可校验交付串成完整流程。
 
 - <code>Python</code> <code>FastAPI</code> <code>OpenCV</code> <code>YuNet</code> <code>YOLO</code> <code>Computer Vision</code>
-- 真实照片、模型路径和人工标注默认留在本地，公开仓库不包含客户素材
-- 融合主体框、人脸检测与人工记忆，降低兽耳误检，同时保留人工隐私复核
-- v4.1 增加可选账户、会话安全与服务器隔离边界；线上模式仍不提供照片上传或云端修图
-- 交付前强制检查隐私、蒙版、曝光与颜色、水印与裁切，并生成带 SHA-256 的清单
+- 融合主体框、人脸检测与人工记忆，同时保留人工隐私复核
+- v4.1 增加可选账户、会话安全与服务器隔离边界
+- 交付前检查隐私、蒙版、曝光与颜色、水印与裁切
 
 [查看项目说明与完整工作流 →](https://github.com/PWJCSqiushan/FurColor-Studio#readme)
 
 ---
 
-### 02 / [Mirage Mane](https://github.com/PWJCSqiushan/Mirage-Mane) <code>TEACHING PROTOTYPE</code>
+### 02 / [Mirage Mane 1.0](https://github.com/PWJCSqiushan/Mirage-Mane) <code>TEACHING PROTOTYPE</code>
 
 面向理发教学的本地优先 3D 头发操作网页。项目以浏览器实时性能为边界，验证从头模与发束建模到抓发、梳理、剪切、推剪、造型和教学截图的一整套交互。
 
