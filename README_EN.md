@@ -23,9 +23,9 @@
 
 ## Hi, I'm Qiu Shan
 
-I study Software Engineering at Jilin University and remain actively involved in photography and long-distance running.
+I am a second-year Software Engineering student at Jilin University, with long-term study and research interests in vibe coding, competitive programming, mathematical modelling, computer vision, embedded systems, and related fields. I also enjoy photography and middle- and long-distance running.
 
-My goal is to go beyond coursework and competitions by gaining sustained experience in product design, development, and iteration. I currently focus on AI applications, computer vision, full-stack products, and intelligent interaction, while applying software engineering to practical problems in photography, learning, and training.
+I aim not merely to complete coursework and competitions, but to keep building end-to-end experience in project design, development, and iteration. I currently focus on AI applications, computer vision, full-stack products, and intelligent interaction, while applying software engineering to practical problems in photography, learning, and training.
 
 | <code>CODE</code> | <code>CAMERA</code> | <code>KILOMETERS</code> |
 |:---|:---|:---|
@@ -60,11 +60,25 @@ A local-first 3D hair-manipulation web application for haircut education. Within
 
 [View the feature set, controls, and modelling boundaries →](https://github.com/PWJCSqiushan/Mirage-Mane#readme)
 
+---
+
+### 03 / [Higgs](https://github.com/PWJCSqiushan/Higgs) <code>ACTIVE</code>
+
+A self-hosted QQ agent designed for long-term personal use. It centres on stable persona, trustworthy memory, owner authority, and controlled automation to build an interaction system that remains sustainable, auditable, stoppable, and reversible.
+
+- <code>Python</code> <code>SQLite</code> <code>OneBot</code> <code>WebSocket</code> <code>AI Agent</code>
+- Supports direct messages, allowlisted groups, natural group triggers, and quoted replies through NapCat / OneBot
+- Governs long-term memory through candidate, quarantined, and active states with vector recall and owner review
+- Provides in-QQ controls for allowlists, trigger words, reply frequency, runtime switches, memory state, and immediate backups
+- Keeps authority separate from memory, prevents persona-core self-drift, and denies high-risk tools by default
+
+[View the architecture, security model, and phase documentation →](https://github.com/PWJCSqiushan/Higgs#readme)
+
 ## More Projects
 
 | Project | What it covers | Stack & stage |
 |---|---|---|
-| **[Higgs](https://github.com/PWJCSqiushan/Higgs)**<br>Self-hosted QQ agent | Provides auditable long-term memory, stable persona, owner authority, operational governance, and controlled tool use | <code>Python</code> <code>SQLite</code> <code>OneBot</code><br>Long-running agent system |
+| **[Mirage Mane V2](https://github.com/PWJCSqiushan/Mirage-Mane-V2)**<br>3D hairdressing teaching workspace | Builds a multi-user, project-isolated teaching space around a realistic head model, instructional landmarks, guide lines, hair regions, and section layers | <code>TypeScript</code> <code>Three.js</code> <code>Cloudflare D1</code><br>Multi-user teaching product |
 | **[JKS](https://github.com/PWJCSqiushan/JKS)**<br>Intelligent voice assistant | Connects desktop recording, STT, an AI agent, TTS, and expressive feedback on a circular ESP32-S3 AMOLED display | <code>Python</code> <code>C++</code> <code>ESP32-S3</code><br>Hardware–software prototype |
 | **[Starflare Codex Pet](https://github.com/PWJCSqiushan/starflare-codex-pet)**<br>Custom Codex pet | Builds and repairs a Codex v2-compatible 8×11 animation atlas with validation and transparent-edge cleanup | <code>Sprite Animation</code> <code>Codex Pet v2</code><br>Character asset |
 | **[StockHub](https://github.com/PWJCSqiushan/stockhub)**<br>Digital media platform | Covers creator uploads, EXIF presentation, users, orders, downloads, and administration while exploring ways to present and distribute original visual work | <code>Next.js</code> <code>TypeScript</code> <code>Prisma</code><br>Full-stack prototype |
@@ -87,7 +101,7 @@ A local-first 3D hair-manipulation web application for haircut education. Within
 ## Current Focus
 
 - **Product engineering:** validating FurColor Studio in real workflows while strengthening safety boundaries and delivery reliability
-- **3D interaction:** improving Mirage Mane's strand approximation, teaching tools, touch controls, and performance tiers
+- **3D interaction:** advancing Mirage Mane V2 multi-user project spaces, teaching layers, and touch interaction while continuing to improve real-time 3D teaching tools
 - **Intelligent interaction:** advancing Higgs long-term memory governance while continuing work on voice agents, embedded displays, and custom Codex interaction assets
 - **Foundations:** studying C++ competitive programming, algorithms, computer systems, and mathematical modelling
 - **Visual work & running:** refining photography workflows and using structured review to guide long-distance training
@@ -136,7 +150,7 @@ This section combines technologies already used in projects with areas I am curr
   </a>
 </p>
 
-<sub>The heatmap covers the past year of public GitHub activity. The statistics cards were refreshed on 2026-07-30; language percentages use code size across non-fork public repositories.</sub>
+<sub>The heatmap covers the past year of public GitHub activity. The statistics cards were refreshed on 2026-08-03; language percentages use code size across non-fork public repositories.</sub>
 
 ## Beyond Development
 

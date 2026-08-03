@@ -24,26 +24,26 @@
 <circle cx="25" cy="76" r="4" fill="#3572A5"/>
 <text class="label" x="36" y="79">Python</text>
 <rect class="track" x="133" y="69" width="270" height="9" rx="4.5"/>
-<rect x="133" y="69" width="206.0" height="9" rx="4.5" fill="#3572A5"/>
-<text class="label" x="467" y="79" text-anchor="end">76.3%</text>
+<rect x="133" y="69" width="201.7" height="9" rx="4.5" fill="#3572A5"/>
+<text class="label" x="467" y="79" text-anchor="end">74.7%</text>
 <circle cx="25" cy="97" r="4" fill="#f34b7d"/>
 <text class="label" x="36" y="100">C++</text>
 <rect class="track" x="133" y="90" width="270" height="9" rx="4.5"/>
-<rect x="133" y="90" width="37.5" height="9" rx="4.5" fill="#f34b7d"/>
-<text class="label" x="467" y="100" text-anchor="end">13.9%</text>
-<circle cx="25" cy="118" r="4" fill="#89e051"/>
-<text class="label" x="36" y="121">Shell</text>
+<rect x="133" y="90" width="36.7" height="9" rx="4.5" fill="#f34b7d"/>
+<text class="label" x="467" y="100" text-anchor="end">13.6%</text>
+<circle cx="25" cy="118" r="4" fill="#3178c6"/>
+<text class="label" x="36" y="121">TypeScript</text>
 <rect class="track" x="133" y="111" width="270" height="9" rx="4.5"/>
-<rect x="133" y="111" width="10.3" height="9" rx="4.5" fill="#89e051"/>
-<text class="label" x="467" y="121" text-anchor="end">3.8%</text>
-<circle cx="25" cy="139" r="4" fill="#f1e05a"/>
-<text class="label" x="36" y="142">JavaScript</text>
+<rect x="133" y="111" width="11.3" height="9" rx="4.5" fill="#3178c6"/>
+<text class="label" x="467" y="121" text-anchor="end">4.2%</text>
+<circle cx="25" cy="139" r="4" fill="#89e051"/>
+<text class="label" x="36" y="142">Shell</text>
 <rect class="track" x="133" y="132" width="270" height="9" rx="4.5"/>
-<rect x="133" y="132" width="9.6" height="9" rx="4.5" fill="#f1e05a"/>
-<text class="label" x="467" y="142" text-anchor="end">3.5%</text>
-<circle cx="25" cy="160" r="4" fill="#3178c6"/>
-<text class="label" x="36" y="163">TypeScript</text>
+<rect x="133" y="132" width="10.5" height="9" rx="4.5" fill="#89e051"/>
+<text class="label" x="467" y="142" text-anchor="end">3.9%</text>
+<circle cx="25" cy="160" r="4" fill="#f1e05a"/>
+<text class="label" x="36" y="163">JavaScript</text>
 <rect class="track" x="133" y="153" width="270" height="9" rx="4.5"/>
-<rect x="133" y="153" width="6.7" height="9" rx="4.5" fill="#3178c6"/>
-<text class="label" x="467" y="163" text-anchor="end">2.5%</text>
+<rect x="133" y="153" width="9.8" height="9" rx="4.5" fill="#f1e05a"/>
+<text class="label" x="467" y="163" text-anchor="end">3.6%</text>
 </svg>
