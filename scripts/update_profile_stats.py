@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Generate self-hosted SVG cards for the GitHub profile README.
 
-The script uses only Python's standard library. It reads public account data
+The script uses only Python's standard library. It reads account-visible data
 through GitHub's GraphQL API and writes deterministic SVG assets into the
 profile repository, avoiding runtime dependencies on public stats-card hosts.
 """
@@ -156,12 +156,12 @@ def overview_svg(username: str, stats: dict[str, int]) -> str:
     parts = [
         '<svg xmlns="http://www.w3.org/2000/svg" width="495" height="190" viewBox="0 0 495 190" role="img" aria-labelledby="title desc">',
         f'<title id="title">{html.escape(username)} GitHub overview</title>',
-        '<desc id="desc">Public repository and contribution statistics for the past twelve months.</desc>',
+        '<desc id="desc">Repository and contribution statistics for the past twelve months.</desc>',
         svg_style(),
         '<rect class="card" x="0.75" y="0.75" width="493.5" height="188.5" rx="12"/>',
         '<rect x="20" y="20" width="4" height="28" rx="2" fill="#AF85B9"/>',
         '<text class="title" x="36" y="38">GitHub Overview</text>',
-        '<text class="subtitle" x="36" y="55">Public activity · rolling 12 months</text>',
+        '<text class="subtitle" x="36" y="55">GitHub activity · rolling 12 months</text>',
         '<path d="M20 70H475" stroke="#30363d" stroke-opacity="0.75"/>',
     ]
     for index, (label, value) in enumerate(metrics):
@@ -174,7 +174,7 @@ def overview_svg(username: str, stats: dict[str, int]) -> str:
     parts.extend(
         [
             '<circle cx="22" cy="169" r="3" fill="#A2E0F2"/>',
-            '<text class="footnote" x="32" y="173">Generated from GitHub public data</text>',
+            '<text class="footnote" x="32" y="173">Generated from GitHub account data</text>',
             "</svg>",
         ]
     )

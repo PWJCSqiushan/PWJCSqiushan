@@ -23,7 +23,7 @@
 
 ## Hi, I'm Qiu Shan
 
-I am a second-year Software Engineering student at Jilin University, with long-term study and research interests in vibe coding, competitive programming, mathematical modelling, computer vision, embedded systems, and related fields. I also enjoy photography and middle- and long-distance running.
+I am a second-year Software Engineering student at Jilin University, with long-term study and research interests in Vibe Coding, competitive programming, mathematical modelling, computer vision, embedded systems, and related fields. I also enjoy photography and middle- and long-distance running, while continuing to develop my post-production workflow with DaVinci Resolve, Lightroom, Premiere Pro, and Photoshop.
 
 I aim not merely to complete coursework and competitions, but to keep building end-to-end experience in project design, development, and iteration. I currently focus on AI applications, computer vision, full-stack products, and intelligent interaction, while applying software engineering to practical problems in photography, learning, and training.
 
@@ -64,13 +64,14 @@ A local-first 3D hair-manipulation web application for haircut education. Within
 
 ### 03 / [Higgs](https://github.com/PWJCSqiushan/Higgs) <code>ACTIVE</code>
 
-A self-hosted QQ agent designed for long-term personal use. It centres on stable persona, trustworthy memory, owner authority, and controlled automation to build an interaction system that remains sustainable, auditable, stoppable, and reversible.
+A self-hosted QQ agent designed for long-term personal use. Version 2.1 centres on stable persona, trustworthy memory, owner authority, and controlled automation to build an interaction system that remains sustainable, auditable, stoppable, and reversible.
 
 - <code>Python</code> <code>SQLite</code> <code>OneBot</code> <code>WebSocket</code> <code>AI Agent</code>
 - Supports direct messages, allowlisted groups, natural group triggers, and quoted replies through NapCat / OneBot
-- Governs long-term memory through candidate, quarantined, and active states with vector recall and owner review
-- Provides in-QQ controls for allowlists, trigger words, reply frequency, runtime switches, memory state, and immediate backups
+- Memory V2.1 governs observations through candidate, quarantined, active, and invalidated states, with FTS5/vector hybrid recall and owner review
+- Provides in-QQ controls for allowlists, trigger words, reply frequency, runtime switches, memory, reminders, daily planning, and immediate backups
 - Keeps authority separate from memory, prevents persona-core self-drift, and denies high-risk tools by default
+- The current quality baseline passes 170 tests, with full checks running on every push and pull request
 
 [View the architecture, security model, and phase documentation →](https://github.com/PWJCSqiushan/Higgs#readme)
 
@@ -79,6 +80,7 @@ A self-hosted QQ agent designed for long-term personal use. It centres on stable
 | Project | What it covers | Stack & stage |
 |---|---|---|
 | **[Mirage Mane V2](https://github.com/PWJCSqiushan/Mirage-Mane-V2)**<br>3D hairdressing teaching workspace | Builds a multi-user, project-isolated teaching space around a realistic head model, instructional landmarks, guide lines, hair regions, and section layers | <code>TypeScript</code> <code>Three.js</code> <code>Cloudflare D1</code><br>Multi-user teaching product |
+| **[mirage-scalp-grid-viewer](https://github.com/PWJCSqiushan/mirage-scalp-grid-viewer)**<br>3D scalp coordinate grid | Builds a shared meridian/ring grid, labelled intersections, and reusable guide-line sequences across five realistic head models for precise Mirage calibration | <code>JavaScript</code> <code>Three.js</code> <code>GLB</code><br>Independent calibration tool |
 | **[JKS](https://github.com/PWJCSqiushan/JKS)**<br>Intelligent voice assistant | Connects desktop recording, STT, an AI agent, TTS, and expressive feedback on a circular ESP32-S3 AMOLED display | <code>Python</code> <code>C++</code> <code>ESP32-S3</code><br>Hardware–software prototype |
 | **[Starflare Codex Pet](https://github.com/PWJCSqiushan/starflare-codex-pet)**<br>Custom Codex pet | Builds and repairs a Codex v2-compatible 8×11 animation atlas with validation and transparent-edge cleanup | <code>Sprite Animation</code> <code>Codex Pet v2</code><br>Character asset |
 | **[StockHub](https://github.com/PWJCSqiushan/stockhub)**<br>Digital media platform | Covers creator uploads, EXIF presentation, users, orders, downloads, and administration while exploring ways to present and distribute original visual work | <code>Next.js</code> <code>TypeScript</code> <code>Prisma</code><br>Full-stack prototype |
@@ -101,8 +103,8 @@ A self-hosted QQ agent designed for long-term personal use. It centres on stable
 ## Current Focus
 
 - **Product engineering:** validating FurColor Studio in real workflows while strengthening safety boundaries and delivery reliability
-- **3D interaction:** advancing Mirage Mane V2 multi-user project spaces, teaching layers, and touch interaction while continuing to improve real-time 3D teaching tools
-- **Intelligent interaction:** advancing Higgs long-term memory governance while continuing work on voice agents, embedded displays, and custom Codex interaction assets
+- **3D interaction:** advancing Mirage Mane V2 multi-user project spaces, teaching layers, and touch interaction while refining realistic head-model calibration through a separate scalp-grid tool
+- **Intelligent interaction:** advancing Higgs memory, reminder, and planning governance while continuing work on voice agents, embedded displays, and custom Codex interaction assets
 - **Foundations:** studying C++ competitive programming, algorithms, computer systems, and mathematical modelling
 - **Visual work & running:** refining photography workflows and using structured review to guide long-distance training
 
@@ -150,7 +152,7 @@ This section combines technologies already used in projects with areas I am curr
   </a>
 </p>
 
-<sub>The heatmap covers the past year of public GitHub activity. The statistics cards were refreshed on 2026-08-03; language percentages use code size across non-fork public repositories.</sub>
+<sub>The heatmap and cards cover the past year of GitHub activity and were refreshed on 2026-08-14. Public-repository count and top-five language percentages only use non-fork public repositories; no private repository names or content are shown.</sub>
 
 ## Beyond Development
 

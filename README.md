@@ -23,8 +23,8 @@
 
 ## 你好，我是丘山
 
-吉林大学软件工程专业大二在读，长期进行 vibe coding、程序设计竞赛、数学建模、计算机视觉、嵌入式等领域的学习和研究。
-同时，我热爱摄影创作和中长跑，并在持续学习使用 达芬奇、light room、PR、PS 等工具进行影像的后期处理工作。
+吉林大学软件工程专业大二在读，长期进行 Vibe Coding、程序设计竞赛、数学建模、计算机视觉、嵌入式等领域的学习和研究。
+同时，我热爱摄影创作和中长跑，并在持续学习使用 DaVinci Resolve、Lightroom、Premiere Pro、Photoshop 等工具进行影像后期处理。
 
 我希望自己不仅仅在完成课程与比赛，而是不断积累完整项目的设计、开发和迭代经验。
 目前，我主要关注的领域有 AI 应用、计算机视觉、全栈产品与智能交互，我也在尝试把软件开发能力用于解决摄影、学习和训练中的实际问题。
@@ -65,13 +65,14 @@
 
 ### 03 / [Higgs](https://github.com/PWJCSqiushan/Higgs) <code>ACTIVE</code>
 
-面向个人长期使用的自托管 QQ 智能体。项目围绕“稳定人格、可信记忆、主人权限和受控自动化”构建可持续运行、可审计、可停止和可回滚的智能交互系统。
+面向个人长期使用的自托管 QQ 智能体。当前 V2.1 围绕“稳定人格、可信记忆、主人权限和受控自动化”构建可持续运行、可审计、可停止和可回滚的智能交互系统。
 
 - <code>Python</code> <code>SQLite</code> <code>OneBot</code> <code>WebSocket</code> <code>AI Agent</code>
 - 通过 NapCat / OneBot 支持私聊、白名单群、自然触发群与引用消息
-- 使用候选、隔离、激活状态机管理长期记忆，并结合向量召回与主人审核
-- 在 QQ 内提供白名单、触发词、回复频率、运行开关、记忆状态和即时备份治理
+- Memory V2.1 使用观察、候选、隔离、激活与失效状态管理长期记忆，并结合 FTS5、向量混合召回与主人审核
+- 在 QQ 内提供白名单、触发词、回复频率、运行开关、记忆、提醒、今日计划和即时备份治理
 - 坚持权限与记忆分离、人格核心不自我漂移以及高风险工具默认拒绝
+- 当前质量基线为 170 项测试通过，并在每次 Push 和 Pull Request 时执行完整检查
 
 [查看架构、安全模型与阶段文档 →](https://github.com/PWJCSqiushan/Higgs#readme)
 
@@ -80,6 +81,7 @@
 | 项目 | 主要内容 | 技术与定位 |
 |---|---|---|
 | **[Mirage Mane V2](https://github.com/PWJCSqiushan/Mirage-Mane-V2)**<br>3D 美发教学工作台 | 以真实头模、教学点线、头发分区和发片图层构建多用户、项目隔离的美发教学空间 | <code>TypeScript</code> <code>Three.js</code> <code>Cloudflare D1</code><br>多用户教学产品 |
+| **[mirage-scalp-grid-viewer](https://github.com/PWJCSqiushan/mirage-scalp-grid-viewer)**<br>三维头皮坐标网格 | 为五款真实头模建立统一编号的经纬网格、交点标注与辅助线序列，服务于 Mirage 的精确标定工作 | <code>JavaScript</code> <code>Three.js</code> <code>GLB</code><br>独立标定工具 |
 | **[JKS](https://github.com/PWJCSqiushan/JKS)**<br>智能语音交互助手 | 串联桌面端录音、STT、智能体、TTS 与 ESP32-S3 圆形 AMOLED 表情反馈 | <code>Python</code> <code>C++</code> <code>ESP32-S3</code><br>软硬件交互原型 |
 | **[Starflare Codex Pet](https://github.com/PWJCSqiushan/starflare-codex-pet)**<br>自定义 Codex 宠物 | 制作并修复符合 Codex v2 规范的 8×11 动画精灵图，包含完整校验与透明边缘清理 | <code>Sprite Animation</code> <code>Codex Pet v2</code><br>角色资产 |
 | **[StockHub](https://github.com/PWJCSqiushan/stockhub)**<br>影像素材平台 | 完成创作者上传、EXIF 展示、用户、订单、下载和管理后台等业务链路，探索个人影像作品展示与交易方式 | <code>Next.js</code> <code>TypeScript</code> <code>Prisma</code><br>全栈产品原型 |
@@ -102,8 +104,8 @@
 ## 当前方向 · Current Focus
 
 - 项目工程：继续推进 FurColor Studio 的真实场景验证、安全边界与交付可靠性
-- 3D 交互：推进 Mirage Mane V2 的多用户项目空间、教学图层与触控体验，并持续完善实时 3D 教学工具
-- 智能交互：推进 Higgs 的长期记忆治理，并继续探索语音智能体、嵌入式显示和 Codex 自定义交互资产
+- 3D 交互：推进 Mirage Mane V2 的多用户项目空间、教学图层与触控体验，并通过独立头皮坐标网格工具完善真实头模标定
+- 智能交互：推进 Higgs 的长期记忆、提醒与日程治理，并继续探索语音智能体、嵌入式显示和 Codex 自定义交互资产
 - 专业基础：系统学习 C++ 程序设计竞赛、算法、计算机系统与数学建模
 - 影像与训练：持续完善摄影后期工作流，并用阶段复盘指导长跑训练，为不同年龄段体适能教育提供专业化指导建议
 
@@ -151,7 +153,7 @@
   </a>
 </p>
 
-<sub>贡献热力图展示过去一年的 GitHub 公开活动；统计卡片更新于 2026-08-03，语言占比按非 Fork 公开仓库的代码体积统计。</sub>
+<sub>贡献热力图与统计卡片展示过去一年的 GitHub 活动，更新于 2026-08-14；公开仓库数与前五种语言占比仅统计非 Fork 公开仓库，不展示私有仓库名称或内容。</sub>
 
 ## 个人方向 · Beyond Development
 
