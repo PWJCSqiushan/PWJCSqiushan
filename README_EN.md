@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="#featured-work"><img alt="Featured work" src="https://img.shields.io/badge/Featured_Work-View_projects-AF85B9?style=for-the-badge"></a>
-  <a href="#tech-stack"><img alt="Tech stack" src="https://img.shields.io/badge/Tech_Stack-Tools_&_Stack-668099?style=for-the-badge"></a>
-  <a href="#github-data"><img alt="GitHub data" src="https://img.shields.io/badge/GitHub_Data-Live-CFA2B0?style=for-the-badge"></a>
-  <a href="https://github.com/PWJCSqiushan/PWJCSqiushan/issues/new?template=say-hello.yml"><img alt="Say hello" src="https://img.shields.io/badge/Say_Hello-Start_a_conversation-8D6A9F?style=for-the-badge"></a>
+  <a href="#featured-work"><img alt="Featured Work" src="https://img.shields.io/badge/Featured-Work-AF85B9?style=for-the-badge"></a>
+  <a href="#tech-stack"><img alt="Tech Stack" src="https://img.shields.io/badge/Tech-Stack-668099?style=for-the-badge"></a>
+  <a href="#github-data"><img alt="GitHub Data" src="https://img.shields.io/badge/GitHub-Activity-CFA2B0?style=for-the-badge"></a>
+  <a href="https://github.com/PWJCSqiushan/PWJCSqiushan/issues/new?template=say-hello.yml"><img alt="Say Hello" src="https://img.shields.io/badge/Say-Hello-8D6A9F?style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -23,78 +23,100 @@
 
 ## Hi, I'm Qiu Shan
 
-I am a second-year Software Engineering student at Jilin University, with long-term study and research interests in Vibe Coding, competitive programming, mathematical modelling, computer vision, embedded systems, and related fields. I also enjoy photography and middle- and long-distance running, while continuing to develop my post-production workflow with DaVinci Resolve, Lightroom, Premiere Pro, and Photoshop.
+I am a second-year Software Engineering student at Jilin University, heading toward **AI applications and machine-learning engineering**. I build with AI as a collaborator and aim to turn real needs into products that ship, can be verified, and keep improving. I am currently studying and researching vibe coding, competitive programming, mathematical modelling, computer vision, and embedded systems.
 
-I aim not merely to complete coursework and competitions, but to keep building end-to-end experience in project design, development, and iteration. I currently focus on AI applications, computer vision, full-stack products, and intelligent interaction, while applying software engineering to practical problems in photography, learning, and training.
+In the Solar group at the JLU School of Artificial Intelligence, I work on hardware and development for the **SENSRING sound-recognition ring** and experiment with running spiking large language models locally. Beyond code, I love photography and middle- and long-distance running, and I keep developing my post-production workflow with DaVinci Resolve, Lightroom, Premiere Pro, and Photoshop.
 
 | <code>CODE</code> | <code>CAMERA</code> | <code>KILOMETERS</code> |
 |:---|:---|:---|
-| AI applications, computer vision, full-stack products, embedded interaction | Event and portrait photography, post-production workflows, creator tools | Road and trail running, training plans, data-informed review |
+| AI agents, 3D interaction, full-stack products, on-device deployment | Event and portrait photography, vlogs, post-production and watermark workflows | Road and trail running, training plans, race reviews |
+
+<a name="github-data"></a>
+
+## Development Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-overview-dark.svg">
+    <img width="100%" src="./assets/activity-overview-light.svg" alt="GitHub contribution heatmap from June to 7 November 2026: 905 contributions in the last year, 80 active days, 18-day longest streak, 18 public repositories">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/project-timeline-dark.svg">
+    <img width="49%" src="./assets/project-timeline-light.svg" alt="Weekly commit timeline per public project; Higgs has 256 commits">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/top-languages-dark.svg">
+    <img width="49%" src="./assets/top-languages-light.svg" alt="Language share across public repositories: Python, TypeScript, C++, JavaScript, CSS">
+  </picture>
+</p>
+
+<sub>Since the previous refresh in mid-August: 5 new public repositories, and 210+ new commits to Higgs, including the dual-channel rollout and Persona 2.2. Updated 2026-11-07 from the public contribution calendar and commit history of public non-fork repositories. Contributions may include anonymised private activity; language share is measured by own source size, excluding vendored and bundled files.</sub>
 
 <a name="featured-work"></a>
 
 ## Featured Work
 
-### 01 / [FurColor Studio](https://github.com/PWJCSqiushan/FurColor-Studio) <code>ACTIVE</code>
+<p align="center">
+  <a href="https://github.com/PWJCSqiushan/Higgs"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/higgs-en-dark.svg">
+    <img width="100%" src="./assets/cards/higgs-en-light.svg" alt="Higgs: a self-hosted QQ agent with memory and boundaries. Dual channel, Persona 2.2, governed long-term memory, Higgs 3.0 roadmap">
+  </picture></a>
+</p>
 
-A local-first AI batch post-production workstation for fursuit event photography. Version 4.1 now connects culling, subject detection and anonymous grouping, human-face privacy review, reference-guided grading, layered subject exposure, per-image eye masks, manual quality control, and verifiable delivery.
+<p align="center"><sub><a href="https://github.com/PWJCSqiushan/Higgs">Higgs</a> · <a href="https://github.com/PWJCSqiushan/Higgs#readme">Architecture & safety model</a></sub></p>
 
-- <code>Python</code> <code>FastAPI</code> <code>OpenCV</code> <code>YuNet</code> <code>YOLO</code> <code>Computer Vision</code>
-- Keeps photographs, model paths, and human annotations local; no client material is included in the public repository
-- Combines subject boxes, face detection, and human feedback while keeping privacy decisions under manual review
-- Adds optional accounts, session security, and server isolation boundaries without claiming cloud photo processing
-- Requires privacy, mask, exposure/colour, watermark, and crop checks before producing a SHA-256 manifest
+<p align="center">
+  <a href="https://github.com/PWJCSqiushan/qiushan-workspace"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/workspace-en-dark.svg">
+    <img width="100%" src="./assets/cards/workspace-en-light.svg" alt="Qiushan Workspace: nine workflows, continuous coordination numbers, multi-device sync, analytics">
+  </picture></a>
+</p>
 
-[View the project guide and complete workflow →](https://github.com/PWJCSqiushan/FurColor-Studio#readme)
+<p align="center"><sub><a href="https://github.com/PWJCSqiushan/qiushan-workspace">Qiushan Workspace</a> · <a href="https://github.com/PWJCSqiushan/qiushan-workspace#readme">Workflows & deployment</a></sub></p>
 
----
+<p align="center">
+  <a href="https://github.com/PWJCSqiushan/Mirage-Mane-V2"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/mirage-en-dark.svg">
+    <img width="100%" src="./assets/cards/mirage-en-light.svg" alt="Mirage 3D hair teaching: from 1.0 strand interaction and the V2 workspace to the shipped commercial edition">
+  </picture></a>
+</p>
 
-### 02 / [Mirage Mane](https://github.com/PWJCSqiushan/Mirage-Mane) <code>TEACHING PROTOTYPE</code>
+<p align="center"><sub><a href="https://github.com/PWJCSqiushan/Mirage-Mane">Mirage Mane 1.0</a> · <a href="https://github.com/PWJCSqiushan/Mirage-Mane-V2">V2 workspace</a> · <a href="https://github.com/PWJCSqiushan/mirage-scalp-grid-viewer">Scalp grid viewer</a> · commercial edition is private</sub></p>
 
-A local-first 3D hair-manipulation web application for haircut education. Within browser real-time constraints, it explores a complete interaction loop from head and strand modelling to grabbing, combing, cutting, clipping, styling, and instructional screenshots.
+## Shipped for Clients
 
-- <code>React</code> <code>Three.js</code> <code>Vite</code> <code>WebGL</code> <code>Local-first</code>
-- Uses guide clusters plus dense display strands to balance fixed roots, length constraints, and responsive interaction
-- Supports spatial scissors, clippers, combing, blow-drying, and several styling tools
-- Stores teaching projects locally in the browser and covers key behaviour with model and interaction smoke tests
+| Project | What I built | Stack & status |
+|---|---|---|
+| **Mirage 3D Hairdressing Teaching System** | Delivered independently as the contractor: haircut teaching moves as operable 3D interactions, including cross-section cuts and a scalp guide grid | <code>React</code> <code>Three.js</code> <code>Nginx</code><br>Live since Oct 2026 |
+| **Xuanyue Youth Sports & Home Training Mini Program** | Youth (ages 5–16) sports teaching flow: intake assessment → class feedback → home training → growth report, with age-normed six-axis radar charts and training plans | <code>WeChat Mini Program</code> <code>Cloud Base</code><br>Live since 2026-08-24 |
 
-[View the feature set, controls, and modelling boundaries →](https://github.com/PWJCSqiushan/Mirage-Mane#readme)
-
----
-
-### 03 / [Higgs](https://github.com/PWJCSqiushan/Higgs) <code>ACTIVE</code>
-
-A self-hosted QQ agent designed for long-term personal use. Version 2.1 centres on stable persona, trustworthy memory, owner authority, and controlled automation to build an interaction system that remains sustainable, auditable, stoppable, and reversible.
-
-- <code>Python</code> <code>SQLite</code> <code>OneBot</code> <code>WebSocket</code> <code>AI Agent</code>
-- Supports direct messages, allowlisted groups, natural group triggers, and quoted replies through NapCat / OneBot
-- Memory V2.1 governs observations through candidate, quarantined, active, and invalidated states, with FTS5/vector hybrid recall and owner review
-- Provides in-QQ controls for allowlists, trigger words, reply frequency, runtime switches, memory, reminders, daily planning, and immediate backups
-- Keeps authority separate from memory, prevents persona-core self-drift, and denies high-risk tools by default
-- The current quality baseline passes 170 tests, with full checks running on every push and pull request
-
-[View the architecture, security model, and phase documentation →](https://github.com/PWJCSqiushan/Higgs#readme)
+<sub>Client code lives in private repositories.</sub>
 
 ## More Projects
 
-| Project | What it covers | Stack & stage |
+| Project | What it does | Stack & role |
 |---|---|---|
-| **[Mirage Mane V2](https://github.com/PWJCSqiushan/Mirage-Mane-V2)**<br>3D hairdressing teaching workspace | Builds a multi-user, project-isolated teaching space around a realistic head model, instructional landmarks, guide lines, hair regions, and section layers | <code>TypeScript</code> <code>Three.js</code> <code>Cloudflare D1</code><br>Multi-user teaching product |
-| **[mirage-scalp-grid-viewer](https://github.com/PWJCSqiushan/mirage-scalp-grid-viewer)**<br>3D scalp coordinate grid | Builds a shared meridian/ring grid, labelled intersections, and reusable guide-line sequences across five realistic head models for precise Mirage calibration | <code>JavaScript</code> <code>Three.js</code> <code>GLB</code><br>Independent calibration tool |
-| **[JKS](https://github.com/PWJCSqiushan/JKS)**<br>Intelligent voice assistant | Connects desktop recording, STT, an AI agent, TTS, and expressive feedback on a circular ESP32-S3 AMOLED display | <code>Python</code> <code>C++</code> <code>ESP32-S3</code><br>Hardware–software prototype |
-| **[Starflare Codex Pet](https://github.com/PWJCSqiushan/starflare-codex-pet)**<br>Custom Codex pet | Builds and repairs a Codex v2-compatible 8×11 animation atlas with validation and transparent-edge cleanup | <code>Sprite Animation</code> <code>Codex Pet v2</code><br>Character asset |
-| **[StockHub](https://github.com/PWJCSqiushan/stockhub)**<br>Digital media platform | Covers creator uploads, EXIF presentation, users, orders, downloads, and administration while exploring ways to present and distribute original visual work | <code>Next.js</code> <code>TypeScript</code> <code>Prisma</code><br>Full-stack prototype |
-| **[chaoxing-fanya](https://github.com/PWJCSqiushan/chaoxing-fanya)**<br>Chaoxing learning automation | Extends an open-source project with a visual web interface, OCR, question-bank integrations, notifications, and portable packaging | <code>Python</code> <code>Flask</code> <code>React</code><br>Open-source extension |
+| **[TongChuangQS](https://github.com/PWJCSqiushan/TongChuangQS-Public)** <code>NEW</code><br>C++ social simulation | One service core for simulated QQ, WeChat, Weibo, and WeShop services; GUI and console share the business logic, with local persistence and two-window TCP chat | <code>C++17</code> <code>Qt Widgets</code> <code>CMake</code><br>OOP course project |
+| **[AudioDock](https://github.com/PWJCSqiushan/audiodock)** <code>NEW</code><br>Video link to audio | Paste share text to parse, queue, transcode, verify, and download MP3 / FLAC and more; deployed on GitHub Pages + Render | <code>Python</code> <code>FastAPI</code> <code>React</code> <code>FFmpeg</code><br>[Try it](https://pwjcsqiushan.github.io/audiodock/) |
+| **[Offline Watermark Studio](https://github.com/PWJCSqiushan/offline-watermark-studio)** <code>NEW</code><br>Offline image watermarks | Single-image tuning and batch ZIP export, entirely in the browser with no uploads; ships with a reusable Codex Skill | <code>JavaScript</code> <code>Canvas</code><br>[Use online](https://pwjcsqiushan.github.io/offline-watermark-studio/) |
+| **[PIEZO1 Virtual Screening](https://github.com/PWJCSqiushan/piezo1-virtual-screening)** <code>NEW</code><br>Computational screening | Pocket-prediction consensus, DrugCLIP re-ranking, RDKit structural alerts, and ADMET evidence, with versioned rules and review boundaries for a life-science competition team | <code>Python</code> <code>RDKit</code><br>Research pipeline |
+| **[FurColor Studio](https://github.com/PWJCSqiushan/FurColor-Studio)**<br>AI photo post-production | Local-first batch workflow for fursuit event photography: culling, subject grouping, face-privacy review, reference-guided grading, verifiable delivery | <code>Python</code> <code>FastAPI</code> <code>OpenCV</code> <code>YOLO</code><br>v4.1 |
+| **[JKS](https://github.com/PWJCSqiushan/JKS)**<br>Voice assistant | Desktop recording, STT, agent, TTS, and expression feedback on an ESP32-S3 round AMOLED | <code>Python</code> <code>C++</code> <code>ESP32-S3</code><br>Hardware–software prototype |
 
 <details>
 <summary><strong>Project archive</strong></summary>
 
-| Project | In one line |
+| Project | Summary |
 |---|---|
-| [chaoxing-quiz-pdf](https://github.com/PWJCSqiushan/chaoxing-quiz-pdf) | Collects and organises questions into printable PDF study material |
-| [hospital-management-system](https://github.com/PWJCSqiushan/hospital-management-system) | A C/C++ course project implementing a complete outpatient workflow |
-| [media-marketplace](https://github.com/PWJCSqiushan/media-marketplace) | The frontend product-validation prototype that preceded StockHub |
-| [cloudflare-edgetunnel-v2rayn-guide](https://github.com/PWJCSqiushan/cloudflare-edgetunnel-v2rayn-guide) | A network configuration guide based on real deployment and troubleshooting work |
+| [Starflare Codex Pet](https://github.com/PWJCSqiushan/starflare-codex-pet) | 8×11 animated sprite sheet following the Codex v2 spec, with validation and edge clean-up |
+| [StockHub](https://github.com/PWJCSqiushan/stockhub) | Full-stack prototype for photo uploads, EXIF display, orders, and downloads |
+| [chaoxing-fanya](https://github.com/PWJCSqiushan/chaoxing-fanya) | Extends an open-source project with a web UI, OCR, notifications, and portable packaging |
+| [chaoxing-quiz-pdf](https://github.com/PWJCSqiushan/chaoxing-quiz-pdf) | Collects and organises questions into printable PDFs |
+| [hospital-management-system](https://github.com/PWJCSqiushan/hospital-management-system) | C/C++ course project covering a complete outpatient workflow |
+| [cloudflare-edgetunnel-v2rayn-guide](https://github.com/PWJCSqiushan/cloudflare-edgetunnel-v2rayn-guide) | Network configuration notes from real deployment and troubleshooting |
 
 </details>
 
@@ -102,68 +124,49 @@ A self-hosted QQ agent designed for long-term personal use. Version 2.1 centres 
 
 ## Current Focus
 
-- **Product engineering:** validating FurColor Studio in real workflows while strengthening safety boundaries and delivery reliability
-- **3D interaction:** advancing Mirage Mane V2 multi-user project spaces, teaching layers, and touch interaction while refining realistic head-model calibration through a separate scalp-grid tool
-- **Intelligent interaction:** advancing Higgs memory, reminder, and planning governance while continuing work on voice agents, embedded displays, and custom Codex interaction assets
-- **Foundations:** studying C++ competitive programming, algorithms, computer systems, and mathematical modelling
-- **Visual work & running:** refining photography workflows and using structured review to guide long-distance training
+- **Research**: SENSRING hardware group — chip selection and hardware deployment plans; deployment debugging and inference optimisation of spiking neural network (SNN) models on FPGA
+- **Agents**: Higgs 3.0 group understanding, governed tool calling, and multimodality, plus wider acceptance on the official channel
+- **Delivery**: keep iterating on the Xuanyue mini program and the Mirage commercial edition from real user feedback
+- **Foundations**: C++ competitive programming and algorithms, mathematical modelling, computer systems, and Linux
+- **Imaging & training**: event and portrait shoots, everyday vlogs; periodic reviews to guide road and trail training
 
 <a name="tech-stack"></a>
 
-## Tech Stack & Tools
+## Tech Stack
 
-This section combines technologies already used in projects with areas I am currently studying and strengthening.
+Technologies used in my projects, together with areas I am actively strengthening.
 
 <p align="center">
   <strong>Languages</strong><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,matlab&theme=dark&perline=5" alt="Python, C++, TypeScript, JavaScript and MATLAB">
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,ts,js,matlab&theme=dark&perline=6" alt="Python, C++, C, TypeScript, JavaScript and MATLAB">
   </a>
 </p>
 
 <p align="center">
   <strong>AI · Web · Data</strong><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,fastapi,flask,react,nextjs,threejs,vite,tailwind,sqlite,prisma&theme=dark&perline=10" alt="OpenCV, FastAPI, Flask, React, Next.js, Three.js, Vite, Tailwind CSS, SQLite and Prisma">
+    <img src="https://skillicons.dev/icons?i=opencv,fastapi,react,vue,threejs,qt,vite,cloudflare,sqlite,prisma&theme=dark&perline=10" alt="OpenCV, FastAPI, React, Vue, Three.js, Qt, Vite, Cloudflare, SQLite and Prisma">
   </a>
 </p>
 
 <p align="center">
   <strong>Engineering · Creative</strong><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,powershell,vscode,ps,pr&theme=dark&perline=8" alt="Git, GitHub, Docker, Linux, PowerShell, VS Code, Photoshop and Premiere">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,nginx,cmake,vscode,ps,pr&theme=dark&perline=10" alt="Git, GitHub, GitHub Actions, Docker, Linux, Nginx, CMake, VS Code, Photoshop and Premiere">
   </a>
 </p>
-
-<a name="github-data"></a>
-
-## GitHub Data · Development Activity
-
-<p align="center">
-  <img width="96%" src="https://ghchart.rshah.org/AF85B9/PWJCSqiushan" alt="PWJCSqiushan GitHub contributions over the past year">
-</p>
-
-<p align="center">
-  <a href="https://github.com/PWJCSqiushan?tab=repositories">
-    <img height="170" src="./assets/github-overview.svg" alt="PWJCSqiushan public repository and contribution statistics">
-  </a>
-  <a href="https://github.com/PWJCSqiushan?tab=repositories&type=source">
-    <img height="170" src="./assets/top-languages.svg" alt="PWJCSqiushan public repository language distribution">
-  </a>
-</p>
-
-<sub>The heatmap and cards cover the past year of GitHub activity and were refreshed on 2026-08-14. Public-repository count and top-five language percentages only use non-fork public repositories; no private repository names or content are shown.</sub>
 
 ## Beyond Development
 
-- 📷 Continuing event, portrait, and video photography, and converting real post-production needs into software features
-- 🏃 Competing in road, trail, and collegiate running events with structured training and post-race review
-- 📚 Maintaining long-term study in competitive programming, mathematics competitions, mathematical modelling, and English
+- 📷 Event, portrait, and video shoots with colour grading — and turning real needs into tools such as FurColor Studio and the offline watermark studio
+- 🏃 National Level-1 amateur athlete (Chinese Athletics Association); 10+ road races including Beijing, Dalian, Changsha, Changchun, Jilin, Harbin, and Tianjin; also the 2026 Gaobai relay, the CURA China University Road Running League, and the 2026 Songhua Lake Northeast 100 mountain race
+- 🧭 Class monitor and deputy head of the Student Union secretariat; long-term training in competitive programming and mathematical modelling
 
 ## Connect
 
-If you are interested in **AI and imaging, 3D interaction, creator tools, intelligent hardware, or open-source collaboration**, feel free to:
+If you are interested in **AI agents, 3D interaction, creator tools, smart hardware, or open-source collaboration**, feel free to:
 
-- [Leave a public note or collaboration idea](https://github.com/PWJCSqiushan/PWJCSqiushan/issues/new?template=say-hello.yml)
+- [Leave a public message or propose an idea](https://github.com/PWJCSqiushan/PWJCSqiushan/issues/new?template=say-hello.yml)
 - [Browse all repositories](https://github.com/PWJCSqiushan?tab=repositories)
 - [Send an email](mailto:dongzongyue@gmail.com)

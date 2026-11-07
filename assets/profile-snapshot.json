@@ -1,0 +1,56 @@
+{
+  "generated": "2026-11-07T23:40+08:00",
+  "calendar_end": "2026-11-07",
+  "contributions_last_year": 905,
+  "window_since": "2026-06-01",
+  "active_days": 80,
+  "longest_streak": 18,
+  "public_repos": 18,
+  "new_repos": 5,
+  "commits_per_lane": {
+    "Higgs": 256,
+    "Qiushan Workspace": 37,
+    "AudioDock": 15,
+    "TongChuangQS": 4,
+    "PIEZO1 Screening": 13,
+    "Watermark Studio": 3,
+    "Mirage Mane": 8,
+    "FurColor Studio": 18,
+    "Starflare Pet": 14,
+    "Earlier tools": 35
+  },
+  "language_bytes": [
+    [
+      "Python",
+      4017696
+    ],
+    [
+      "TypeScript",
+      2522162
+    ],
+    [
+      "C++",
+      798488
+    ],
+    [
+      "JavaScript",
+      573221
+    ],
+    [
+      "CSS",
+      409931
+    ],
+    [
+      "Shell",
+      153457
+    ],
+    [
+      "PowerShell",
+      70826
+    ],
+    [
+      "HTML",
+      51094
+    ]
+  ]
+}
