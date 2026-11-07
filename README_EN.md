@@ -103,7 +103,7 @@ In the Solar group at the JLU School of Artificial Intelligence, I work on hardw
 | **[AudioDock](https://github.com/PWJCSqiushan/audiodock)** <code>NEW</code><br>Video link to audio | Paste share text to parse, queue, transcode, verify, and download MP3 / FLAC and more; deployed on GitHub Pages + Render | <code>Python</code> <code>FastAPI</code> <code>React</code> <code>FFmpeg</code><br>[Try it](https://pwjcsqiushan.github.io/audiodock/) |
 | **[Offline Watermark Studio](https://github.com/PWJCSqiushan/offline-watermark-studio)** <code>NEW</code><br>Offline image watermarks | Single-image tuning and batch ZIP export, entirely in the browser with no uploads; ships with a reusable Codex Skill | <code>JavaScript</code> <code>Canvas</code><br>[Use online](https://pwjcsqiushan.github.io/offline-watermark-studio/) |
 | **[PIEZO1 Virtual Screening](https://github.com/PWJCSqiushan/piezo1-virtual-screening)** <code>NEW</code><br>Computational screening | Pocket-prediction consensus, DrugCLIP re-ranking, RDKit structural alerts, and ADMET evidence, with versioned rules and review boundaries for a life-science competition team | <code>Python</code> <code>RDKit</code><br>Research pipeline |
-| **[FurColor Studio](https://github.com/PWJCSqiushan/FurColor-Studio)**<br>AI photo post-production | Local-first batch workflow for fursuit event photography: culling, subject grouping, face-privacy review, reference-guided grading, verifiable delivery | <code>Python</code> <code>FastAPI</code> <code>OpenCV</code> <code>YOLO</code><br>v4.1 |
+| **[FurColor Studio](https://github.com/PWJCSqiushan/FurColor-Studio)**<br>AI photo post-production | Local-first batch workflow for furcon photography: culling, subject grouping, face-privacy review, reference-guided grading, verifiable delivery | <code>Python</code> <code>FastAPI</code> <code>OpenCV</code> <code>YOLO</code><br>v4.1 |
 | **[JKS](https://github.com/PWJCSqiushan/JKS)**<br>Voice assistant | Desktop recording, STT, agent, TTS, and expression feedback on an ESP32-S3 round AMOLED | <code>Python</code> <code>C++</code> <code>ESP32-S3</code><br>Hardware–software prototype |
 
 <details>
@@ -161,7 +161,7 @@ Technologies used in my projects, together with areas I am actively strengthenin
 
 - 📷 Event, portrait, and video shoots with colour grading — and turning real needs into tools such as FurColor Studio and the offline watermark studio
 - 🏃 National Level-1 amateur athlete (Chinese Athletics Association); 10+ road races including Beijing, Dalian, Changsha, Changchun, Jilin, Harbin, and Tianjin; also the 2026 Gaobai relay, the CURA China University Road Running League, and the 2026 Songhua Lake Northeast 100 mountain race
-- 🧭 Class monitor and deputy head of the Student Union secretariat; long-term training in competitive programming and mathematical modelling
+- 🧭 Long-term training in competitive programming and mathematical modelling
 
 ## Connect
 
